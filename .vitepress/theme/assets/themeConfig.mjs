@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "Pjczz",
     // 站点描述
-    description: "Hello World",
+    description: "愿随心所欲",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -227,9 +227,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://example.com/1.avif',
-        'https://example.com/2.avif',
-        'https://example.com/3.avif'
+        'https://c.wallhere.com/images/30/2b/3f2214aa618eebf62e4ea4358f9a-1563305.jpg!d',
+        'https://c.wallhere.com/images/83/c3/1cacab872d57c656e586a610d826-1580443.jpg!d',
+        'https://c.wallhere.com/images/89/e5/17c1c33463358611cb5897f6f45e-1437727.jpg!d'
       ]
     }
   },

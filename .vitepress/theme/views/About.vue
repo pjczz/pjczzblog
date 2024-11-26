@@ -5,15 +5,15 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 無名</span>
-        <span class="text3">是一名 前端开发工程师、独立开发者、博主</span>
+        <span class="text2 title2">我是 pjczz</span>
+        <span class="text3">是一名 前端开发工程师、独立开发者</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
         <span class="tip">追求</span>
         <span class="title2">源于</span>
-        <span class="title2">热爱而去开发</span>
-        <span class="title2">优秀的作品</span>
+        <span class="title2">兴趣而去开发</span>
+        <span class="title2">有趣的作品</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
@@ -44,7 +44,7 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">ZZRVTC · 计算机应用技术</span>
+          <span class="list-item" style="--color: #357ef5">Software Engineering · 软件工程</span>
           <span class="list-item" style="--color: #eb372a">FE · 前端开发工程师</span>
         </div>
         <img
