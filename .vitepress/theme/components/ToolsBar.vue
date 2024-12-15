@@ -3,7 +3,7 @@
     <h2 class="tools-bar-title">{{ props.title }}</h2>
     <div class="tools-bar-subtitle">{{ props.subtitle }}</div>
     <div style="display: grid; grid-template-columns: repeat(5 ,1fr);margin-top: 20px;">
-      <a class="tools-bar-item" v-for="(item, index) in props.toolsList" :key="index">
+      <a :href="item.url" target="_blank" class="tools-bar-item" v-for="(item, index) in props.toolsList" :key="index">
         <div class="tools-bar-item-icon">
           <img :src="item.icon"></img>
         </div>
